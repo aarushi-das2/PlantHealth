@@ -23,7 +23,7 @@ SDG 15 – Life on Land
 
 ## Dataset
 The complete dataset used for model development is available on Kaggle and consists of leaf images from five plant species along with experimentally measured chlorophyll values. Representative sample images are included in this repository.
-Kaggle: https://www.kaggle.com/code/paradiseflycatcher/ai-based-non-destructive-plant-health-assessment
+Kaggle: https://www.kaggle.com/datasets/paradiseflycatcher/plant-health
 
 ## Results
 ### Validation Performance
