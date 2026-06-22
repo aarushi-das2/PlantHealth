@@ -2,7 +2,7 @@
 This project aims to develop an AI-based system for non-destructive assessment of plant health by predicting chlorophyll content from leaf images. Chlorophyll concentration is an important indicator of plant health, photosynthetic activity, and nutrient status. Traditional chlorophyll estimation methods require destructive sampling and laboratory analysis. This study explores the use of image processing and ML to provide a low-cost and sustainable alternative.
 
 Primary SDG:
-SDG 2 – Zero Hunger
+SDG 12 - Responsible Consumption and Production
 
 Secondary SDG:
 SDG 15 – Life on Land
